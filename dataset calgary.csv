@@ -1,0 +1,201 @@
+Asking_Price,Assessed_Price,Property_Type,Storeys,Year_Built,Neighbourhood,Building_Type,Address
+14999,29000,single_family,1,1976,Greenwood,mobile,
+204000,203000,single_family,1,2003,downtown east village,apartment,214 630 8 AV SE
+439900,421000,single_family,2,1995,coral spring,house,157 CORAL KEYS CO NE
+199500,191000,single_family,1,1969,beltline,apartment,103 1236 15 AV SW
+429900,480500,single_family,2,1975,southwood,house,11411 SOUTHDALE CL SW
+549900,563500,single_family,2,1997,mckenzie,house,124 MT DOUGLAS PT SE
+1150000,804500,single_family,1,1950,sunnyside,house,615 2 AV NW
+419000,428500,single_family,1,1950,Winston Heights,house,411 33 AV NE
+849900,654500,single_family,2.5,1963,kelvin grove,house,7319 KEEWATIN ST SW
+458800,502500,single_family,1,1962,brentwood,house,104 BRADEN CR NW
+350000,322000,single_family,3,2015,new brighton,townhouse,262 NEW BRIGHTON WK SE
+199900,175000,single_family,1,1981,bowness,apartment,"315 8604 48 AV NW Bowness, Calgary, Alberta T3B5E6"
+415900,412000,single_family,2,2010,skyview ranch,house,40 SKYVIEW SPRINGS RD NE
+199900,175000,single_family,1,1981,bowness,apartment,315 8604 48 AV NW
+415900,412000,single_family,2,2010,skyview ranch,house,40 SKYVIEW SPRINGS RD NE
+437500,408500,single_family,2,2017,cornerstone,house,432 CORNERSTONE PS NE
+415900,410500,single_family,2,2010,skyview ranch,house,44 SKYVIEW SPRINGS RD NE
+232800,217500,single_family,1,1981,upper mount royal,apartment,1 2440 14 ST SW
+669900,560500,single_family,2,1979,canyon meadows,house,23 CANOVA CL SW
+250000,287500,single_family,2,1998,chaparral,townhouse,89 CHAPARRAL RIDGE TC SE
+219900,249500,single_family,1,2002,pineridge,duplex,6635 PINECLIFF GV NE
+259000,257000,single_family,1,2017,sage hill,townhouse,19 SAGE BLUFF CI NW
+224900,222500,single_family,1,2003,citadel,apartment,122 4000 CITADEL MEADOW PT NW
+249999,238500,single_family,1,2008,beltline,apartment,1302 210 15 AV SE
+194900,212500,single_family,1,1975,rideau park,apartment,108 3316 RIDEAU PL SW
+319900,302000,single_family,1,1958,forest lawn,house,2621 42 ST SE
+347900,386000,single_family,2,1997,hidden valley,house,102 HIDDEN RANCH RD NW
+347900,75000,single_family,2,2019,skyview ranch,townhouse,
+347900,75000,single_family,2,2019,skyview ranch,townhouse,
+219900,226000,single_family,1,2015,skyview ranch,apartment,
+339800,331500,single_family,2,2009,skyview ranch,duplex,
+251900,267000,single_family,3,2010,skyview ranch,townhouse,
+280000,281000,single_family,2,2012,skyview ranch,townhouse,
+190000,145500,single_family,1,2017,skyview ranch,apartment,
+200000,210000,single_family,1,2012,skyview ranch,apartment,
+189888,170500,single_family,1,2015,skyview ranch,apartment,
+250000,279500,single_family,3,2010,skyview ranch,apartment,
+167000,80500,single_family,1,2019,cornerstone,apartment,
+289900,114000,single_family,1.5,2019,cornerstone,duplex,
+309900,114000,single_family,1.5,2019,cornerstone,duplex,
+325000,115000,single_family,2,2019,cornerstone,duplex,
+334900,320000,single_family,2,2016,cornerstone,duplex,
+309900,334500,single_family,2,2017,cornerstone,townhouse,
+439000,457500,single_family,2,2017,cornerstone,house,
+397900,133500,single_family,2,2019,cornerstone,house,
+388500,369000,single_family,2,2018,cornerstone,house,
+599900,537000,single_family,2,2016,cornerstone,house,
+364900,336500,single_family,2,2016,cornerstone,duplex,
+450000,118000,single_family,2,2019,cornerstone,duplex,
+240000,236500,single_family,1,2016,beltline,apartment,
+184900,198500,single_family,1,1981,beltline,apartment,
+549900,548000,single_family,1,2008,beltline,apartment,
+199500,191000,single_family,1,1969,beltline,apartment,
+375000,364500,single_family,1,2011,beltline,apartment,
+1499000,1120000,single_family,1,2018,beltline,apartment,
+299900,195500,single_family,1,1982,beltline,apartment,
+309900,246500,single_family,1,1978,beltline,apartment,
+419900,406000,single_family,1,2017,beltline,apartment,
+565000,516000,single_family,1,2015,downtown east village,apartment,
+280000,270500,single_family,1,2000,downtown east village,apartment,
+275000,246500,single_family,1,2009,inglewood,apartment,
+350000,278000,single_family,1,2010,downtown east village,apartment,
+314997,256000,single_family,1,2012,downtown east village,apartment,
+569900,551500,single_family,1,2016,downtown east village,apartment,
+84900,101000,single_family,1,2002,Greenwood,Mobile Home,514 3223 83 ST NW
+245000,297000,single_family,1.5,1981,Castleridge,house,71 CASTLEGLEN WY NE
+249000,275500,single_family,1,1977,Whitehorn,house,872 WHITEHILL WY NE
+249900,303500,single_family,1.5,1977,Whitehorn,house,313 WHITEHILL PL NE
+249900,264500,single_family,1.5,1980,Castleridge,house,4 CASTLEBROOK RI NE
+259900,263000,single_family,2,1981,Erin Woods,house,33 ERIN WOODS PL SE
+259900,285000,single_family,2,1978,Abbeydale,house,116 ABINGER CR NE
+259900,290500,single_family,2,1989,Martindale,house,230 Martindale BV NE
+264900,321500,single_family,1.5,1978,Pineridge,house,6420 26 AV NE
+265000,276500,single_family,1,1956,Ogden,house,23 LYNNWOOD DR SE
+269900,261000,single_family,1,1973,Ogden,house,610 OLYMPIA DR SE
+269900,268500,single_family,1,1970,Dover,house,3257 32A AV SE
+269900,273000,single_family,2,1990,Dover,house,68 DOVERCLIFFE WY SE
+269900,348500,single_family,1,1980,Temple,house,6723 43 AV NE
+272500,271500,single_family,2,1979,Temple,house,4231 58 ST NE
+274100,360000,single_family,1,1980,Falconridge,house,63 FALSBY PL NE
+275000,301000,single_family,2,1990,Taradale,house,100 Taradale CL NE
+275000,304500,single_family,1.5,1973,Penbrooke Meadows,house,6020 5 AV SE
+279000,289000,single_family,1.5,1981,Erin Woods,house,236 ERIN CROFT CR SE
+279900,298500,single_family,1,1981,Erin Woods,house,48 ERIN GROVE CL SE
+279900,292000,single_family,1.5,1998,Martindale,house,49 MARTIN CROSSING WY NE
+280000,275500,single_family,2,1990,Dover,house,70 DOVERCLIFFE WY SE
+280000,324500,single_family,2,1973,Penbrooke Meadows,house,35 Penworth CR SE
+280000,286000,single_family,2,1978,Pineridge,house,2824 66 ST NE
+284000,299000,single_family,1.5,1981,Falconridge,house,116 FALTON DR NE
+284900,308500,single_family,1,1979,Temple,house,200 TEMPLEVALE RD NE
+284900,309000,single_family,2,1989,Martindale,house,28 MARTINVIEW CR NE
+284900,288500,single_family,1,1980,Dover,house,23 DOVERGLEN CR SE
+289000,296000,single_family,2,1979,Abbeydale,house,16 ABBERFIELD WY NE
+289000,319000,single_family,2,1978,Pineridge,house,256 PINEMILL ME NE
+289900,316000,single_family,2,1989,Martindale,house,133 MARTINBROOK PL NE
+289900,313500,single_family,2,1980,Temple,house,245 TEMPLEMONT DR NE
+289900,298500,single_family,2,1980,Pineridge,house,195 PINEMEADOW RD NE
+289900,302500,single_family,1,1971,Dover,house,3474 32A AV SE
+299900,299000,single_family,1.5,1973,Marlborough,house,1059 MARCOMBE DR NE
+299900,310000,single_family,1,1959,Forest Lawn,house,2420 36 ST SE
+300000,333000,single_family,1,1973,Penbrooke Meadows,house,6104 PENWORTH RD SE
+300000,314500,single_family,1.5,1976,Rundle,house,4711 RUNDLEHORN DR NE
+300000,315500,single_family,1.5,1987,Millrise,house,143 MILLCREST WY SW
+172000,180000,single_family,2,1962,Vista Heights,townhouse,#348 2211 19 ST NE
+172500,182000,single_family,2,1982,Falconridge,townhouse,97 FALSHIRE TC NE
+139900,146500,single_family,2,1975,Penbrooke Meadows,townhouse,#221 5404 10 AV SE
+150000,241500,single_family,2,1980,Glamorgan,townhouse,#212 25 GLAMIS GR SW
+154500,194000,single_family,1,1978,Forest Heights,townhouse,#74 3745 FONDA WY SE
+159900,208000,single_family,2,1978,Forest Heights,townhouse,#62 3705 FONDA WY SE
+159900,183000,single_family,1.5,1972,Bowness,townhouse,#3 4503 75 ST NW
+192000,196000,single_family,1.5,1971,Willow Park,townhouse,#1604 11010 BONAVENTURE DR SE
+192000,198000,single_family,2,1981,Erin Woods,townhouse,#15 220 ERIN MOUNT CR SE
+194900,225500,single_family,2,1981,Deer Ridge,townhouse,204 Deerpoint LN SE
+194999,159000,single_family,2,1975,Bridgeland/Riverside,townhouse,#7 643 4 AV NE
+195000,193000,single_family,2,2009,Saddle Ridge,townhouse,94 Saddlebrook PT NE
+195000,221500,single_family,2,1970,Acadia,townhouse,#75 219 90 AV SE
+195900,189500,single_family,2,1978,Rundle,townhouse,#54 2519 38 ST NE
+310000,324500,single_family,1.5,1987,Falconridge,House,213 FALMERE WY NE
+310000,368000,single_family,2,1986,Taradale,House,73 TARARIDGE CL NE
+310000,309000,single_family,1,1980,Falconridge,House,23 FALWORTH PL NE
+314000,316000,single_family,1,1975,Forest Heights,House,136 FOREST RD SE
+314000,320000,single_family,2,1989,Taradale,House,245 TARADALE CL NE
+315000,317500,single_family,1,1971,Dover,House,130 DOVERCLIFFE CL SE
+317000,342500,single_family,1.5,1973,Marlborough,House,3836 MARBANK DR NE
+317900,339000,single_family,2,1996,hidden valley,House,171 HIDDEN SPRING GR NW
+318000,303000,single_family,2,1980,Beddington Heights,House,15 Beaconsfield CR NW
+319000,323000,single_family,1.5,2003,Martindale,House,1203 MARTINDALE BV NE
+319000,295500,single_family,2,1989,Abbeydale,House,54 ABALONE CR NE
+319900,316000,single_family,1,1979,343 Fonda WY SE,House,343 Fonda WY SE
+319900,343000,single_family,2,1996,Martindale,House,32 MARTINBROOK LI NE
+319900,325500,single_family,2,1989,Martindale,House,35 MARTINRIDGE PL NE
+319900,302000,single_family,1,1958,Forest Lawn,House,2621 42 ST SE
+319900,304500,single_family,2,1995,Applewood Park,House,51 APPLEBURN CL SE
+319900,373000,single_family,1,1912,Tuxedo Park,House,110 30 AV NW
+319900,309500,single_family,2,1989,Taradale,House,129 TARADALE DR NE
+319990,307500,single_family,2,1984,Taradale,House,20 TARARIDGE CL NE
+320000,325500,single_family,2,1979,Abbeydale,House,104 ABADAN CR NE
+322900,294500,single_family,1.5,1973,Penbrooke Meadows,House,6611 4 AV SE
+324900,344500,single_family,1,1954,Bowness,House,6504 34 AV NW
+3999900,3010000,single_family,2,2018,Upper Mount Royal,House,2305 MORRISON ST SW
+3988000,2310000,single_family,3,2012,Springbank Hill,House,15 SPRING VALLEY VW SW
+3980000,2190000,single_family,2,2009,Erlton,House,2605 ERLTON ST SW
+3950000,2170000,single_family,2,2019,Bel-Aire,House,1203 BEVERLEY BV SW
+3695000,3060000,single_family,3,2019,Rideau Park,House,738 RIDEAU RD SW
+3500000,1770000,single_family,2,1961,Windsor Park,House,5819 ELBOW DR SW
+3499000,3460000,single_family,2.5,2014,Roxboro,House,ROXBORO RD SW
+3495000,3150000,single_family,2,2009,Springbank Hill,House,70 Posthill DR SW
+3398888,1620000,single_family,2,1992,Woodbine,House,13 WOODHAVEN VW SW
+3195000,1780000,single_family,2,1982,Upper Mount Royal,House,1401 PROSPECT AV SW
+3095000,2940000,single_family,2,2000,Upper Mount Royal,House,625 EARL GREY CR SW
+3088888,1880000,single_family,1,2010,Hamptons,House,48 HAMPTONS VW NW
+2999000,2660000,single_family,2,2015,Upper Mount Royal,House,1213 PREMIER WY SW
+2989000,2650000,single_family,3,2011,Windsor Park,House,27 WINDSOR CR SW
+2297000,2180000,single_family,2,1976,Lake Bonavista,House,1071 LAKE PLACID DR SE
+2290000,2275000,single_family,2,2009,Springbank Hill,House,163 POSTHILL DR SW
+2250000,2750000,single_family,2,1956,"Britannia, Calgary",House,4327 BRITANNIA DR SW
+2200000,1700000,single_family,2,2009,Springbank Hill,House,40 SPRING WILLOW TC SW
+2198000,1890000,single_family,1,2005,Springbank Hill,House,9 SPRING VALLEY TC SW
+2148800,945000,single_family,2,2019,"Springbank Hill,",House,18 Spring Glen VW SW
+2147000,2140000,single_family,2,1989,Upper Mount Royal,House,1333 MONTREAL AV SW
+2099900,1210000,single_family,2,2019,Altadore,House,4524 17 ST SW
+2090000,2080000,single_family,2,2018,Springbank Hill,House,234 FORTRESS BA SW
+1989000,1540000,single_family,3,2014,Ramsay,House,1034 BELLEVUE AV SE
+1980000,1980000,single_family,2.5,1912,"Upper Mount Royal,",House,1935 10 ST SW
+1975000,2240000,single_family,2,2009,Springbank Hill,House,35 ELMONT DR SW
+1960000,1910000,single_family,2,2012,Rocky Ridge,House,65 ROCKCLIFF HT NW
+1950900,1780000,single_family,2,2015,Altadore,House,4504 19 ST SW
+1950000,998000,single_family,2,1969,Willow Park,House,456 WILDERNESS DR SE
+1895000,1350000,single_family,2,2006,Chaparral,House,347 CHAPALA PT SE
+1875000,1870000,single_family,1.5,1978,Upper Mount Royal,House,1326 Montreal AV SW
+1850000,1520000,single_family,3,2018,Currie Barracks,House,105 TRASIMENO CR SW
+1849988,933500,single_family,2,2018,Cambrian Heights,House,907 31 AV NW
+1825000,804000,single_family,2,1985,Edgemont,House,100 EDELWEISS DR NW
+1800000,1610000,single_family,2,2004,Hillhurst,House,1715 7 AV NW
+1799900,1940000,single_family,2,2018,West Hillhurst,House,2131 9 AV NW
+1798000,1960000,single_family,2,2010,Elboya,House,432 49 AV SW
+1789000,1850000,single_family,2,2016,Altadore,House,1609 42 AV SW
+1750000,1840000,single_family,2,2003,Aspen Woods,House,82 ASPEN RIDGE WY SW
+1749000,1600000,single_family,2,2003,Roxboro,House,207 ROXBORO RD SW
+1729000,1690000,single_family,2,1961,Mayfair,House,176 MALIBOU RD SW
+1725000,1900000,single_family,2,2010,"Elbow Park",House,3707 5 ST SW
+1700000,2010000,single_family,1,2010,Rural Foothills M.D.,House,15 303 AV W
+1699900,2010000,single_family,2,2005,Hillhurst,House,231 11 ST NW
+1699900,2160000,single_family,2,2018,West Hillhurst,House,2636 5 AV NW
+1699900,1790000,single_family,3,2014,Bridgeland/Riverside,House,716 BRIDGE CR NE
+1698900,949000,single_family,1,2017,"Winston Heights/Mountview,",House,48 MONTROSE CR NE
+1695000,1970000,single_family,2,2007,Bankview,House,2534 19 ST SW
+1695000,891000,single_family,2,2018,Hounsfield Heights/Briar Hill,House,1012 17 ST NW
+1690000,1430000,single_family,2,2017,Wildwood,House,190 Wildwood DR SW
+1630000,1430000,single_family,2.5,1920,Crescent Heights,House,215 2 AV NE
+1629000,1770000,single_family,3,2005,Elbow Park,House,3033 ELBOW DR SW
+1625000,1150000,single_family,2,1965,Lakeview,House,6907 Legare DR SW
+1600000,917500,single_family,2,1973,Parkland,House,14016 PARK ESTATES DR SE
+1599999,1680000,single_family,2,2016,Scarboro/Sunalta West,House,2408 SANDHURST AV SW
+1599500,1350000,single_family,1,2007,Springbank Hill,House,16 SPRING VALLEY LN SW
+1599000,1390000,single_family,2,2011,Altadore,House,1922 44 AV SW
+1599000,1490000,single_family,2,2015,Altadore,House,2003 48 AV SW
+1595000,1190000,single_family,2,2015,Altadore,House,3901 17 ST SW
+1580000,1990000,single_family,2.5,1912,"Upper Mount Royal",House,1415 PROSPECT AV SW
+1535000,498000,single_family,2,2019,Richmond,House, 2210 31 AV SW
