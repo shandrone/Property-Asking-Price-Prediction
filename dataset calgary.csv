@@ -1,14 +1,14 @@
 Asking_Price,Assessed_Price,Property_Type,Storeys,Year_Built,Neighbourhood,Building_Type,Address
 14999,29000,single_family,1,1976,Greenwood,mobile,
-204000,203000,single_family,1,2003,downtown east village,apartment,214 630 8 AV SE
-439900,421000,single_family,2,1995,coral spring,house,157 CORAL KEYS CO NE
-199500,191000,single_family,1,1969,beltline,apartment,103 1236 15 AV SW
-429900,480500,single_family,2,1975,southwood,house,11411 SOUTHDALE CL SW
-549900,563500,single_family,2,1997,mckenzie,house,124 MT DOUGLAS PT SE
-1150000,804500,single_family,1,1950,sunnyside,house,615 2 AV NW
-419000,428500,single_family,1,1950,Winston Heights,house,411 33 AV NE
-849900,654500,single_family,2.5,1963,kelvin grove,house,7319 KEEWATIN ST SW
-458800,502500,single_family,1,1962,brentwood,house,104 BRADEN CR NW
+204000,203000,single_family,1,2003,downtown east village,apartment,
+439900,421000,single_family,2,1995,coral spring,house,
+199500,191000,single_family,1,1969,beltline,apartment,
+429900,480500,single_family,2,1975,southwood,house,
+549900,563500,single_family,2,1997,mckenzie,house,
+1150000,804500,single_family,1,1950,sunnyside,house,
+419000,428500,single_family,1,1950,Winston Heights,house,
+849900,654500,single_family,2.5,1963,kelvin grove,house,
+458800,502500,single_family,1,1962,brentwood,house,
 350000,322000,single_family,3,2015,new brighton,townhouse,262 NEW BRIGHTON WK SE
 199900,175000,single_family,1,1981,bowness,apartment,"315 8604 48 AV NW Bowness, Calgary, Alberta T3B5E6"
 415900,412000,single_family,2,2010,skyview ranch,house,40 SKYVIEW SPRINGS RD NE
@@ -179,7 +179,8 @@ Asking_Price,Assessed_Price,Property_Type,Storeys,Year_Built,Neighbourhood,Build
 1750000,1840000,single_family,2,2003,Aspen Woods,House,82 ASPEN RIDGE WY SW
 1749000,1600000,single_family,2,2003,Roxboro,House,207 ROXBORO RD SW
 1729000,1690000,single_family,2,1961,Mayfair,House,176 MALIBOU RD SW
-1725000,1900000,single_family,2,2010,"Elbow Park",House,3707 5 ST SW
+1725000,1900000,single_family,2,2010,"Elbow Park
+",House,3707 5 ST SW
 1700000,2010000,single_family,1,2010,Rural Foothills M.D.,House,15 303 AV W
 1699900,2010000,single_family,2,2005,Hillhurst,House,231 11 ST NW
 1699900,2160000,single_family,2,2018,West Hillhurst,House,2636 5 AV NW
@@ -197,5 +198,6 @@ Asking_Price,Assessed_Price,Property_Type,Storeys,Year_Built,Neighbourhood,Build
 1599000,1390000,single_family,2,2011,Altadore,House,1922 44 AV SW
 1599000,1490000,single_family,2,2015,Altadore,House,2003 48 AV SW
 1595000,1190000,single_family,2,2015,Altadore,House,3901 17 ST SW
-1580000,1990000,single_family,2.5,1912,"Upper Mount Royal",House,1415 PROSPECT AV SW
+1580000,1990000,single_family,2.5,1912,"Upper Mount Royal
+",House,1415 PROSPECT AV SW
 1535000,498000,single_family,2,2019,Richmond,House, 2210 31 AV SW
